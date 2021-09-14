@@ -7,6 +7,7 @@ function Login() {
   return (
     <div>
       <button className={"bg-red-500 text-white p-10"}>hello</button>
+      <button>hihi</button>
     </div>
   );
 }
